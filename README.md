@@ -1,1 +1,1 @@
-# classes_oop
+The classes_oop folder contains the c++ programs I created through practice and some of these programs are application to tell the user the days of the week after entering the date. This program is more unlike as the calendar as you check the date and correspond it to the day to know which day is your birthday, christmas and any other events. The other programs are bank account application, enployee application, address application and many more.
